@@ -34,7 +34,7 @@ Qualifications : AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 - *Student Team Member* for UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District in New Orleans Post Hurricane Katrina
 - *Summa Cum Laude* Recipient in Master Degree Graduation
 - *Teaching Assistant* for Studio of Urban Planning I-III
-- *Research Assistant* for Collaborative Research of UGM-Kobe University f
+- *Research Assistant* for Collaborative Research of UGM-Kobe University
 
 ## Universitas Atma Jaya Yogyakarta (Java, Indonesia)
 #### [UAJY, Department of Architecture][private university, founded in 1965] <br> B.A. (1997-2005)
