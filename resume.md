@@ -19,13 +19,12 @@ Qualifications :
 
 **2011-recent** <br>  Lecturer at the Department of Architecture, UAJY, Yogyakarta, Indonesia
 
-**2011-2016** <br> Research Assistant in the Ministry of Public Works, Indonesia
+**2011-2016** <br> Research Assistant in the Ministry of Public Works, Indonesia <br> Urban Planning Team Members for Master Plans in Jambi, Gunung Kidul, Siak Districts
 
 **2007-2010** <br> Lecturer Assistant in Planning Studio, UGM, Yogyakarta, Indonesia
 
 **2006-2007** <br> Research Assistant in Earthquake Hazard Mitigations, UGM, Yogyakarta
 
-**2006-2007** <br> Student Member of Global Design Studio of the Urban Revitalization Project for Old Algiers District in New Orleans Post Hurricane Katrina
 
 ## University of Washington (Seattle, WA)
 #### [UW, Department of Urban Design and Planning] <br> Ph.D. Student (2008 - recent)
@@ -39,6 +38,7 @@ Qualifications :
 - *Student Team Member* for UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District in New Orleans Post Hurricane Katrina
 - *Summa Cum Laude* Recipient in Master Degree Graduation
 - *Teaching Assistant* for Studio of Urban Planning I-III
+- *Research Assistant* for Collaborative Research of UGM-Kobe University for Earthquake Resistant Housing in New Nglepen District, Prambanan, Yogyakarta
 
 ## Universitas Atma Jaya Yogyakarta (Java, Indonesia)
 #### [UAJY, Department of Architecture][private university, founded in 1965] <br> B.A. (1997-2005)
