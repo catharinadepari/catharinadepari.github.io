@@ -42,3 +42,6 @@ Qualifications : AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 #### [UAJY, Department of Architecture][private university, founded in 1965] <br> B.A. (1997-2005)
 
 [University of Washington](http://urbdp.be.washington.edu/) <br> [Universitas Gadjah Mada](http://archiplan.ugm.ac.id/en/programmes1/architecture/) <br> [Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)
+
+
+![GitHub Logo](/images/logo.png) 
