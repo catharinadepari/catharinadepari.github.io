@@ -1,9 +1,10 @@
 # Catharina Dwi Astuti Depari
-3025 NE 137th Street, Seattle, Washington, 98125
-(208) 596 - 8354
-cd65@uw.edu
-https://www.slideshare.net/AriDjatmiko1/2-catharina-deparitransformasiruang
-http://www.linkedin.com/in/catharina-depari-4294277a/
+
+* 3025 NE 137th Street, Seattle, Washington, 98125
+* (208) 596 - 8354
+* cd65@uw.edu
+* https://www.slideshare.net/AriDjatmiko1/2-catharina-deparitransformasiruang
+* http://www.linkedin.com/in/catharina-depari-4294277a/
 
 # Summary
 
