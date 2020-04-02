@@ -19,7 +19,7 @@ My qualifications for the job are urban design and planning, spatial analysis
 
 ## Universty of Washington (Seattle, Washington)
 
-* [University of Washington][Deparyment of Urban Design and Planning].*
+* [University of Washington][Department of Urban Design and Planning].*
 ** Ph.D. Student (include alternate titles in parentheses)** (09/29/2008 - recent)
 
 Summary of My Role
