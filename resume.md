@@ -1,6 +1,8 @@
 # Catharina Dwi Astuti Depari
 
-University of washington <br> *Department of Urban Design and Planning Gould Hall* <br> *3950 University Way NE, Seattle, Washington, 98105* <br> (208) 596-8354 <br> cd65@uw.edu
+**University of Washington** <br> *Department of Urban Design and Planning Gould Hall* <br> *3950 University Way NE, Seattle, Washington, 98105*
+
+(208) 596-8354 <br> cd65@uw.edu
 
 https://www.slideshare.net/AriDjatmiko1/2-catharina-deparitransformasiruang <br> http://www.linkedin.com/in/catharina-depari-4294277a/
 
