@@ -27,7 +27,7 @@ Qualifications :
 
 **2006-2007** <br> Student Member of Global Design Studio of the Urban Revitalization Project for Old Algiers District in New Orleans Post Hurricane Katrina
 
-## Universty of Washington (Seattle, WA)
+## University of Washington (Seattle, WA)
 #### [UW][Department of Urban Design and Planning] <br> Ph.D. Student (2008 - recent)
 
 - **Student Team Member** for UW's Studio of Planning in Comprehensive Hazards Mitigation Planning in Westport, Gray Harbor, WA
