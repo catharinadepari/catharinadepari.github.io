@@ -28,19 +28,19 @@ Qualifications :
 **2006-2007** <br> Student Member of Global Design Studio of the Urban Revitalization Project for Old Algiers District in New Orleans Post Hurricane Katrina
 
 ## Universty of Washington (Seattle, WA)
-### [UW][Department of Urban Design and Planning] <br> Ph.D. Student (2008 - recent)
+#### [UW][Department of Urban Design and Planning] <br> Ph.D. Student (2008 - recent)
 
 - **Student Team Member** for UW's Studio of Planning in Comprehensive Hazards Mitigation Planning in Westport, Gray Harbor, WA
 - **Fulbright Scholarship Awardee** for Ph.D. degree in UW
 
 ## Universitas Gadjah Mada Yogyakarta (Java, Indonesia)
-### UGM, Department of Architecture and Planning <br> [a public university in Java, also known as the oldest university in Indonesia which was founded in 1949 in Yogyakarta Special Regions] <br> M.Eng. (2006-2007)
+#### UGM, Department of Architecture and Planning <br> [a public university in Java, also known as the oldest university in Indonesia which was founded in 1949 in Yogyakarta Special Regions] <br> M.Eng. (2006-2007)
 
 - **Student Team Member** for UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District in New Orleans Post Hurricane Katrina
 - **Summa Cum Laude** Recipient in Master Degree Graduation
 - **Teaching Assistant** for Studio of Urban Planning I-III
 
 ## Universitas Atma Jaya Yogyakarta (Java, Indonesia)
-### UAJY,Department of Architecture][a private university in Java, which was founded in 1965 in Yogyakarta Special Regions] <br> B.A. (1997-2005)
+#### UAJY,Department of Architecture][a private university in Java, which was founded in 1965 in Yogyakarta Special Regions] <br> B.A. (1997-2005)
 
 *[University of Washington]* : http://urbdp.be.washington.edu/ <br> *[Universitas Gadjah Mada]* : http://archiplan.ugm.ac.id/en/programmes1/architecture/ <br> *[Universitas Atma Jaya Yogyakarta]* : http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/
