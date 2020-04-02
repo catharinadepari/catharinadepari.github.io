@@ -8,12 +8,7 @@ https://www.slideshare.net/AriDjatmiko1/2-catharina-deparitransformasiruang <br>
 
 ## Summary
 
-Qualifications :
-- AutoCad
-- ArcGIS
-- CorelDraw
-- AdobePhotoshop
-- SketchUp
+Qualifications : AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 
 ## Work Experience (in the last 10 years)
 
@@ -30,7 +25,7 @@ Qualifications :
 ## University of Washington (Seattle, WA)
 #### [UW, Department of Urban Design and Planning] <br> Ph.D. Student (2008 - recent)
 
-- *Student Team Member* for UW's Studio of Planning in Comprehensive Hazards Mitigation Planning in Westport, Gray Harbor, WA
+- *Student Team Member* for UW's Studio of Planning in Westport, Gray Harbor, WA
 - *Fulbright Scholarship Awardee* for Ph.D. degree in the U.S.
 
 ## Universitas Gadjah Mada Yogyakarta (Java, Indonesia)
@@ -39,7 +34,7 @@ Qualifications :
 - *Student Team Member* for UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District in New Orleans Post Hurricane Katrina
 - *Summa Cum Laude* Recipient in Master Degree Graduation
 - *Teaching Assistant* for Studio of Urban Planning I-III
-- *Research Assistant* for Collaborative Research of UGM-Kobe University for Earthquake Resistant Housing in New Nglepen District, Prambanan, Yogyakarta
+- *Research Assistant* for Collaborative Research of UGM-Kobe University f
 
 ## Universitas Atma Jaya Yogyakarta (Java, Indonesia)
 #### [UAJY, Department of Architecture][private university, founded in 1965] <br> B.A. (1997-2005)
