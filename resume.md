@@ -19,12 +19,13 @@ Qualifications :
 
 **2011-recent** <br>  Lecturer at the Department of Architecture, UAJY, Yogyakarta, Indonesia
 
-**2011-2016** <br> Research Assistant in the Ministry of Public Works, Indonesia <br> Urban Planning Team Members for Master Plans in Jambi, Gunung Kidul, Siak Districts
+**2011-2016** <br> Research Assistant in the Ministry of Public Works, Indonesia <br> Urban Planning Team Member for Master Plans in Jambi, Gunung Kidul, Siak Districts
 
 **2007-2010** <br> Lecturer Assistant in Planning Studio, UGM, Yogyakarta, Indonesia
 
 **2006-2007** <br> Research Assistant in Earthquake Hazard Mitigations, UGM, Yogyakarta
 
+**2005-2007** <br> Architecture Supervisor for Construction Management PT. Adjisaka Technic Consultant
 
 ## University of Washington (Seattle, WA)
 #### [UW, Department of Urban Design and Planning] <br> Ph.D. Student (2008 - recent)
