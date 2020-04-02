@@ -36,9 +36,9 @@ Qualifications :
 ## Universitas Gadjah Mada Yogyakarta (Java, Indonesia)
 #### [UGM, Department of Architecture and Planning][public university, founded in 1949] <br> M.Eng. (2006-2007)
 
-- **Student Team Member** for UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District in New Orleans Post Hurricane Katrina
-- **Summa Cum Laude** Recipient in Master Degree Graduation
-- **Teaching Assistant** for Studio of Urban Planning I-III
+- *Student Team Member* for UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District in New Orleans Post Hurricane Katrina
+- *Summa Cum Laude* Recipient in Master Degree Graduation
+- *Teaching Assistant* for Studio of Urban Planning I-III
 
 ## Universitas Atma Jaya Yogyakarta (Java, Indonesia)
 #### [UAJY, Department of Architecture][private university, founded in 1965] <br> B.A. (1997-2005)
