@@ -1,5 +1,7 @@
 # Catharina Dwi Astuti Depari
 
+![UW]
+
 **University of Washington** <br> *Department of Urban Design and Planning Gould Hall* <br> *3950 University Way NE, Seattle, Washington, 98105*
 
 (208) 596-8354 <br> cd65@uw.edu
@@ -39,4 +41,4 @@ Qualifications : AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 ## Universitas Atma Jaya Yogyakarta (Java, Indonesia)
 #### [UAJY, Department of Architecture][private university, founded in 1965] <br> B.A. (1997-2005)
 
-*[University of Washington]* : http://urbdp.be.washington.edu/ <br> *[Universitas Gadjah Mada]* : http://archiplan.ugm.ac.id/en/programmes1/architecture/ <br> *[Universitas Atma Jaya Yogyakarta]* : http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/
+[University of Washington](http://urbdp.be.washington.edu/) <br> [Universitas Gadjah Mada](http://archiplan.ugm.ac.id/en/programmes1/architecture/) <br> [Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)
