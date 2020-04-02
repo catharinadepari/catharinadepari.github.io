@@ -1,4 +1,4 @@
-# Catharina Dwi Astuti Depari
+# Catharina Depari
 
 **University of Washington** <br> *Department of Urban Design and Planning Gould Hall* <br> *3950 University Way NE, Seattle, Washington, 98105*
 
