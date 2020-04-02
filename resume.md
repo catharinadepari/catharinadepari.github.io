@@ -43,5 +43,6 @@ Qualifications : AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 
 [University of Washington](http://urbdp.be.washington.edu/) <br> [Universitas Gadjah Mada](http://archiplan.ugm.ac.id/en/programmes1/architecture/) <br> [Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)
 
+![Alt Text](http://logos-vector.com/logo/vector_UAJY_99575.htm)
 
-![UW URBDP Logo](https://www.google.com/search?q=uw+urbdp+logo&rlz=1C1CHBF_enUS879US879&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjwzMqfxMroAhWFvp4KHeJtBBAQ_AUoAXoECAwQAw&biw=1043&bih=761&dpr=2#imgrc=auVohO9a6jUGDM) 
+![UW URBDP Logo](https://www.google.com/search?q=uw+urbdp+logo&rlz=1C1CHBF_enUS879US879&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjwzMqfxMroAhWFvp4KHeJtBBAQ_AUoAXoECAwQAw&biw=1043&bih=761&dpr=2#imgrc=auVohO9a6jUGDM)
