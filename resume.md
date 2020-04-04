@@ -3,7 +3,7 @@
 
 (208) 596-8354 <br> cd65@uw.edu
 
-https://www.slideshare.net/AriDjatmiko1/2-catharina-deparitransformasiruang <br> http://www.linkedin.com/in/catharina-depari-4294277a/ <br> https://www.aminef.or.id/catharina-dwi-astuti-depari/ <br> https://pddikti.kemdikbud.go.id/data_dosen/39F9A88D-1CCF-4D11-BE66-C6F0CCF30709/5DBE1028-0C0C-4A83-81C5-58D688B44790
+http://www.linkedin.com/in/catharina-depari-4294277a/ <br> https://www.aminef.or.id/catharina-dwi-astuti-depari/ <br> https://pddikti.kemdikbud.go.id/data_dosen/
 
 
 ## Qualifications
@@ -32,7 +32,7 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 ### Universitas Gadjah Mada (Java, Indonesia) <img src="images/kisspng-gadjah-mada-university-ugm-logo-campus-5c591498e6f956.4971283415493418489461.png" width="80" align="left"> <br>
 >##### Department of Urban Design and Planning [public university,founded in 1949]<br> M.Eng. (2006-2007)
 
-- *Team Member* of UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District in <br> New Orleans Post Hurricane Katrina
+- *Team Member* of UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District <br> in New Orleans Post Hurricane Katrina
 - *Summa Cum Laude* Recipient in Master Degree Graduation
 - *Teaching Assistant* for Studio of Urban Planning I-III
 - *Research Assistant* for Collaborative Research of UGM-Kobe University
