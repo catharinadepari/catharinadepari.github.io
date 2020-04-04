@@ -12,9 +12,9 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 
 ## Work Experience
 
-- **2011-recent** <br>  Lecturer at the Department of Architecture, UAJY, Yogyakarta, Indonesia
+- **2010-recent** <br>  Lecturer at the Department of Architecture, UAJY, Yogyakarta, Indonesia
 
-- **2011-2016** <br> Research Assistant in the Ministry of Public Works, Indonesia <br> Urban Planning Team Member for Master Plans in Jambi, Gunung Kidul, Siak Districts
+- **2010-2016** <br> Research Assistant in the Ministry of Public Works, Indonesia <br> Urban Planning Team Member for Master Plans in Jambi, Gunung Kidul, Siak Districts
 
 - **2007-2010** <br> Lecturer Assistant in Planning Studio, UGM, Yogyakarta, Indonesia
 
