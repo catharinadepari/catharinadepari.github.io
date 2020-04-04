@@ -1,5 +1,4 @@
 # Catharina Dwi Astuti Depari
-
 **University of Washington** <img src="images/UW_Seal_Purple_26851.png" width="120" align="right"> <br>*Department of Urban Design and Planning Gould Hall* <br> *3950 University Way NE, Seattle, Washington, 98105*
 
 (208) 596-8354 <br> cd65@uw.edu
@@ -7,21 +6,21 @@
 https://www.slideshare.net/AriDjatmiko1/2-catharina-deparitransformasiruang <br> http://www.linkedin.com/in/catharina-depari-4294277a/
 
 
-## Summary
+## Qualifications
 
-Qualifications : AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
+AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 
 ## Work Experience
-#### Research & Projects
-**2011-recent** <br>  Lecturer at the Department of Architecture, UAJY, Yogyakarta, Indonesia
 
-**2011-2016** <br> Research Assistant in the Ministry of Public Works, Indonesia <br> Urban Planning Team Member for Master Plans in Jambi, Gunung Kidul, Siak Districts
+- **2011-recent** <br>  Lecturer at the Department of Architecture, UAJY, Yogyakarta, Indonesia
 
-**2007-2010** <br> Lecturer Assistant in Planning Studio, UGM, Yogyakarta, Indonesia
+- **2011-2016** <br> Research Assistant in the Ministry of Public Works, Indonesia <br> Urban Planning Team Member for Master Plans in Jambi, Gunung Kidul, Siak Districts
 
-**2006-2007** <br> Research Assistant in Earthquake Hazard Mitigations, UGM, Yogyakarta
+- **2007-2010** <br> Lecturer Assistant in Planning Studio, UGM, Yogyakarta, Indonesia
 
-**2005-2007** <br> Architecture Supervisor for Construction Management PT. Adjisaka Technic Consultant
+- **2006-2007** <br> Research Assistant in Earthquake Hazard Mitigations, UGM, Yogyakarta
+
+- **2005-2007** <br> Architecture Supervisor for Construction Management PT. Adjisaka Technic Consultant
 
 ## Education
 
@@ -31,7 +30,7 @@ Qualifications : AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 - *Team Member* of UW's Studio of Planning in Westport, Gray Harbor, WA
 - *Fulbright Scholarship Awardee* for Ph.D. degree education in the U.S.
 
-#### Universitas Gadjah Mada (Java, Indonesia) <img src="images/kisspng-gadjah-mada-university-ugm-logo-campus-5c591498e6f956.4971283415493418489461.png" width="125" align="right">
+#### Universitas Gadjah Mada (Java, Indonesia) <img src="images/kisspng-gadjah-mada-university-ugm-logo-campus-5c591498e6f956.4971283415493418489461.png" width="135" align="right">
 >##### Department of Urban Design and Planning [public university, founded in 1949]<br> Ph.D. Student (2008-recent)
 
 - *Team Member* of UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District in New Orleans Post Hurricane Katrina
