@@ -45,10 +45,9 @@ Qualifications : AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 - *Best Final Project* for Undergraduate Thesis in Academic Year of 2005
 - *Participant* of the UAJY's Community Development Program in Godean, DIY
 
-*Institutional Links*
+**Institutional Links**
+
 [University of Washington](http://urbdp.be.washington.edu/) <br> [Universitas Gadjah Mada](http://archiplan.ugm.ac.id/en/programmes1/architecture/) <br> [Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)
 
-*Inspirational Quote*
->We can easily forgive a child who is afraid of the dark;
->the real tragedy of life is when men are afraid of the light.
->(Plato)
+**Inspirational Quote**
+>*We can easily forgive a child who is afraid of the dark; <br> the real tragedy of life is when men are afraid of the light.<br> (Plato)*
