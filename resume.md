@@ -32,7 +32,7 @@ Qualifications : AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 - *Fulbright Scholarship Awardee* for Ph.D. degree education in the U.S.
 
 #### Universitas Gadjah Mada (Java, Indonesia) <img src="images/kisspng-gadjah-mada-university-ugm-logo-campus-5c591498e6f956.4971283415493418489461.png" width="125" align="right">
->##### Department of Urban Design and Planning <br> Ph.D. Student (2008-recent)
+>##### Department of Urban Design and Planning [public university, founded in 1949]<br> Ph.D. Student (2008-recent)
 
 - *Team Member* of UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District in New Orleans Post Hurricane Katrina
 - *Summa Cum Laude* Recipient in Master Degree Graduation
@@ -40,7 +40,7 @@ Qualifications : AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 - *Research Assistant* for Collaborative Research of UGM-Kobe University
 
 #### Universitas Atma Jaya Yogyakarta (Java, Indonesia) <img src="images/logo-uajy-png-7.png" width="100" align="right"> <br>
->##### [UAJY, Department of Architecture][private university, founded in 1965] <br> B.A. (1997-2005)
+>#####  Department of Architecture [private university, founded in 1965] <br> B.A. (1997-2005)
 
 - *Best Final Project* for Undergraduate Thesis in Academic Year of 2005
 - *Participant* of the UAJY's Community Development Program in Godean, DIY
