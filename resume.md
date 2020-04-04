@@ -26,13 +26,13 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 ### University of Washington (Seattle, WA) <img src="images/UW_Seal_Purple_26851.png" width="90" align="left"> <br>
 >##### Department of Urban Design and Planning <br> Ph.D. Student (2018-recent)
 
-- *Team Member* of UW's Studio of Planning in Westport, Gray Harbor, WA
+- *Team Member* of UW's Community Based Planning for Hazards Mitigations in Westport, Gray Harbor, WA
 - *Fulbright Scholarship Awardee* for Ph.D. degree education in the U.S.
 
 ### Universitas Gadjah Mada (Java, Indonesia) <img src="images/kisspng-gadjah-mada-university-ugm-logo-campus-5c591498e6f956.4971283415493418489461.png" width="80" align="left"> <br>
 >##### Department of Urban Design and Planning [public university,founded in 1949]<br> M.Eng. (2006-2007)
 
-- *Team Member* of UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District in New Orleans Post Hurricane Katrina
+- *Team Member* of UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District in <br> New Orleans Post Hurricane Katrina
 - *Summa Cum Laude* Recipient in Master Degree Graduation
 - *Teaching Assistant* for Studio of Urban Planning I-III
 - *Research Assistant* for Collaborative Research of UGM-Kobe University
