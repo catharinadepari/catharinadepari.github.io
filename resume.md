@@ -1,6 +1,6 @@
 # Catharina Dwi Astuti Depari
 
-**University of Washington** <br> *Department of Urban Design and Planning Gould Hall* <br> *3950 University Way NE, Seattle, Washington, 98105*
+**University of Washington** <img src="images/UW_Seal_Purple_26851.png" width="100" align="right"> <br>*Department of Urban Design and Planning Gould Hall* <br> *3950 University Way NE, Seattle, Washington, 98105*
 
 (208) 596-8354 <br> cd65@uw.edu
 
@@ -46,6 +46,3 @@ Qualifications : AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 >We are living in the future
 >not
 
-![UW](https://github.com/catharinadepari/catharinadepari.github.io/blob/master/UW.png)
-
-![UW URBDP Logo](https://www.google.com/search?q=uw+urbdp+logo&rlz=1C1CHBF_enUS879US879&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjwzMqfxMroAhWFvp4KHeJtBBAQ_AUoAXoECAwQAw&biw=1043&bih=761&dpr=2#imgrc=auVohO9a6jUGDM)
