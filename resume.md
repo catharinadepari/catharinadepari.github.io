@@ -1,5 +1,5 @@
 # Catharina Dwi Astuti Depari
-**University of Washington** <img src="images/UW_Seal_Purple_26851.png" width="120" align="right"> <br>*Department of Urban Design and Planning Gould Hall* <br> *3950 University Way NE, Seattle, Washington, 98105*
+**University of Washington** <img src="images/UW_Seal_Purple_26851.png" width="120" align="left"> <br>*Department of Urban Design and Planning Gould Hall* <br> *3950 University Way NE, Seattle, Washington, 98105*
 
 (208) 596-8354 <br> cd65@uw.edu
 
