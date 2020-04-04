@@ -25,13 +25,13 @@ Qualifications : AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 
 ## Education
 
->#### University of Washington (Seattle, WA) <img src="images/UW_Seal_Purple_26851.png" width="100" align="right">
+#### University of Washington (Seattle, WA) <img src="images/UW_Seal_Purple_26851.png" width="100" align="right">
 >##### Department of Urban Design and Planning <br> Ph.D. Student (2008-recent)
 
 - *Team Member* of UW's Studio of Planning in Westport, Gray Harbor, WA
 - *Fulbright Scholarship Awardee* for Ph.D. degree education in the U.S.
 
->#### Universitas Gadjah Mada (Java, Indonesia) <img src="images/kisspng-gadjah-mada-university-ugm-logo-campus-5c591498e6f956.4971283415493418489461.png" width="125" align="right">
+#### Universitas Gadjah Mada (Java, Indonesia) <img src="images/kisspng-gadjah-mada-university-ugm-logo-campus-5c591498e6f956.4971283415493418489461.png" width="125" align="right">
 >##### Department of Urban Design and Planning <br> Ph.D. Student (2008-recent)
 
 - *Team Member* of UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District in New Orleans Post Hurricane Katrina
@@ -39,7 +39,7 @@ Qualifications : AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 - *Teaching Assistant* for Studio of Urban Planning I-III
 - *Research Assistant* for Collaborative Research of UGM-Kobe University
 
->#### Universitas Atma Jaya Yogyakarta (Java, Indonesia) <img src="images/logo-uajy-png-7.png" width="100" align="right"> <br>
+#### Universitas Atma Jaya Yogyakarta (Java, Indonesia) <img src="images/logo-uajy-png-7.png" width="100" align="right"> <br>
 >##### [UAJY, Department of Architecture][private university, founded in 1965] <br> B.A. (1997-2005)
 
 - *Best Final Project* for Undergraduate Thesis in Academic Year of 2005
