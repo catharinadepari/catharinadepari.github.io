@@ -18,7 +18,7 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 
 - **2007-2010** <br> Lecturer Assistant in Planning Studio, UGM, Yogyakarta, Indonesia
 
-- **2006-2007** <br> Research Assistant in Earthquake Hazard Mitigations, UGM, Yogyakarta
+- **2006-2007** <br> Research Assistant for UGM's Earthquake Hazard Mitigations
 
 - **2005-2007** <br> Architecture Supervisor for Construction Management PT. Adjisaka Technic Consultant
 
@@ -27,7 +27,7 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 >##### Department of Urban Design and Planning <br> Ph.D. Student (2018-recent)
 
 - *Team Member* of UW's Community Based Planning for Hazards Mitigations in Westport, Gray Harbor, WA
-- *Fulbright Scholarship Awardee* for Ph.D. degree education in the U.S.
+- *Fulbright Scholarship Awardee* for Ph.D. Degree education in the U.S.
 
 ### Universitas Gadjah Mada (Java, Indonesia) <img src="images/kisspng-gadjah-mada-university-ugm-logo-campus-5c591498e6f956.4971283415493418489461.png" width="80" align="left"> <br>
 >##### Department of Urban Design and Planning [public university,founded in 1949]<br> M.Eng. (2006-2007)
