@@ -3,7 +3,7 @@
 
 (208) 596-8354 <br> cd65@uw.edu
 
-https://www.slideshare.net/AriDjatmiko1/2-catharina-deparitransformasiruang <br> http://www.linkedin.com/in/catharina-depari-4294277a/
+https://www.slideshare.net/AriDjatmiko1/2-catharina-deparitransformasiruang <br> http://www.linkedin.com/in/catharina-depari-4294277a/ <br> https://www.aminef.or.id/catharina-dwi-astuti-depari/ <br> https://pddikti.kemdikbud.go.id/data_dosen/39F9A88D-1CCF-4D11-BE66-C6F0CCF30709/5DBE1028-0C0C-4A83-81C5-58D688B44790
 
 
 ## Qualifications
