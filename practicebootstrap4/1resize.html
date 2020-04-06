@@ -12,7 +12,9 @@
   <link href="style.css" rel="stylesheet">
 </head>
 <body>
+<!-- viewport: for mobile devices-->
 
+<!--- Navigation --->
 <!--- arranging the header text position--->
 <div class="jumbotron text-center">
   <h1>My first bootstrap page</h1>
@@ -21,7 +23,11 @@
 </div>
 
 <!--- below codes for arranging the container by resizing the column width with adjustment to the page width--->
-<div class="container">
+<!--- use the command <div class="container" for informing messages --->
+<!--- The .container class provides a responsive fixed width container
+The .container-fluid class provides a full width container, spanning the entire width of the viewport--->
+<!-- pt-3 below means PADDING space meaning add a top padding of 16px"
+<div class="container pt-3">
   <div class="row">
     <div class="col-sm-4">
       <h3>Column 1</h3>
