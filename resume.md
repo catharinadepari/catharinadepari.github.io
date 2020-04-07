@@ -1,10 +1,12 @@
 # Catharina Dwi Astuti Depari
 
-####:office: Office Address
+#### :office: Office Address
 **Universitas Atma Jaya Yogyakarta** <br>*Department of Architecture Faculty of Engineering* <br>*Jalan Babarsari No.44 Yogyakarta, Indonesia, 55581*
-####:school: School Address
+
+#### :school: School Address
 **University of Washington**  <br>*Department of Urban Design and Planning Gould Hall* <br> *3950 University Way NE, Seattle, Washington, 98105*
-####:telephone: Contact
+
+#### :telephone: Contact
 (208) 596-8354 <br> cd65@uw.edu
 
 http://www.linkedin.com/in/catharina-depari-4294277a/ <br> https://www.aminef.or.id/catharina-dwi-astuti-depari/ <br> https://pddikti.kemdikbud.go.id/data_dosen/
