@@ -1,12 +1,12 @@
 # Catharina Dwi Astuti Depari
 
-#### :office: **Office Address**
+##### :office: **Office Address**
 *Universitas Atma Jaya Yogyakarta* <br>*Department of Architecture Faculty of Engineering* <br>*Jalan Babarsari No.44 Yogyakarta, Indonesia, 55581*
 
-#### :school: School Address
+##### :school: School Address
 *University of Washington* <br>*Department of Urban Design and Planning Gould Hall* <br> *3950 University Way NE, Seattle, Washington, 98105*
 
-#### :telephone: Contact
+##### :telephone: Contact
 (208) 596-8354 <br> cd65@uw.edu
 
 http://www.linkedin.com/in/catharina-depari-4294277a/ <br> https://www.aminef.or.id/catharina-dwi-astuti-depari/ <br> https://pddikti.kemdikbud.go.id/data_dosen/
@@ -54,4 +54,4 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 [University of Washington](http://urbdp.be.washington.edu/) <br> [Universitas Gadjah Mada](http://archiplan.ugm.ac.id/en/programmes1/architecture/) <br> [Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)
 
 **Inspirational Quote**
-><small>*We can easily forgive a child who is afraid of the dark; <br> the real tragedy of life is when men are afraid of the light.<br> (Plato)*</small>
+>*We can easily forgive a child who is afraid of the dark; <br> the real tragedy of life is when men are afraid of the light.<br> (Plato)*
