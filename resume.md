@@ -1,6 +1,6 @@
 # Catharina Dwi Astuti Depari
 
-#### :office: Office Address
+#### :office: **Office Address**
 **Universitas Atma Jaya Yogyakarta** <br>*Department of Architecture Faculty of Engineering* <br>*Jalan Babarsari No.44 Yogyakarta, Indonesia, 55581*
 
 #### :school: School Address
