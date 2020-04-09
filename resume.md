@@ -36,7 +36,7 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 - *Fulbright Scholarship Awardee* for Ph.D. Degree education in the U.S.
 
 
-### Universitas Gadjah Mada (Java, Indonesia) <img src="https://raw.githubusercontent.com/catharinadepari/catharinadepari.github.io/master/images/images1/ugm.jpg" width="87" align="left"> <br>
+### Universitas Gadjah Mada (Java, Indonesia) <img src="images/images1/ugm.jpg" width="87" align="left"> <br>
 >##### Department of Urban Design and Planning [public university,founded in 1949]<br> M.Eng. (2006-2007)
 
 - *Team Member* of UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District <br> in New Orleans Post Hurricane Katrina
