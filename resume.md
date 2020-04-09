@@ -45,7 +45,7 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 - *Teaching Assistant* for Studio of Urban Planning I-III
 - *Research Assistant* for Collaborative Research of UGM-Kobe University
 
-### Universitas Atma Jaya Yogyakarta (Java, Indonesia) <img src="images/logo-uajy-png-7.png" width="55" align="left"> <br>
+### Universitas Atma Jaya Yogyakarta (Java, Indonesia) <img src="images/logo-uajy-png-7.png" width="73" align="left"> <br>
 >#####  Department of Architecture [private university, founded in 1965] <br> B.A. (1997-2005)<br>
 
 *[Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)*
