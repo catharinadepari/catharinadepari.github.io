@@ -35,7 +35,8 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 - *Team Member* of UW's Community Based Planning for Hazards Mitigations in Westport, Gray Harbor, WA
 - *Fulbright Scholarship Awardee* for Ph.D. Degree education in the U.S.
 
-### Universitas Gadjah Mada (Java, Indonesia) <img src="images/kisspng-gadjah-mada-university-ugm-logo-campus-5c591498e6f956.4971283415493418489461.png" width="88" align="left"> <br>
+
+### Universitas Gadjah Mada (Java, Indonesia) <img src="images/kisspng-gadjah-mada-university-ugm-logo-campus-5c591498e6f956.4971283415493418489461.png" width="90" align="left"> <br>
 >##### Department of Urban Design and Planning [public university,founded in 1949]<br> M.Eng. (2006-2007)
 
 - *Team Member* of UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District <br> in New Orleans Post Hurricane Katrina
@@ -54,4 +55,4 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 [University of Washington](http://urbdp.be.washington.edu/) <br> [Universitas Gadjah Mada](http://archiplan.ugm.ac.id/en/programmes1/architecture/) <br> [Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)
 
 **Inspirational Quote**
->*We can easily forgive a child who is afraid of the dark; <br> the real tragedy of life is when men are afraid of the light.<br> (Plato)*
+>*We can easily forgive a child who is afraid of the dark; <br> the real tragedy of life is when men are afraid of the light.<br> <small>(Plato, Ancient Greek Philosopher)*</small>
