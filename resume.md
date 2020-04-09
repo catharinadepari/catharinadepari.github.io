@@ -30,13 +30,13 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 
 ## Education
 ### University of Washington (Seattle, WA) <img src="images/UW_Seal_Purple_26851.png" width="80" align="left"> <br>
->##### Department of Urban Design and Planning <br> Ph.D. Student (2018-recent)<br>
+>##### Department of Urban Design and Planning <br> Ph.D. Student (2018-recent) <br>
 *[University of Washington](http://urbdp.be.washington.edu/)*
 
 - *Team Member* of UW's Community Based Planning for Hazards Mitigations in Westport, Gray Harbor, WA
 - *Fulbright Scholarship Awardee* for Ph.D. Degree education in the U.S.
 
-### Universitas Gadjah Mada (Java, Indonesia) <img src="images/images1/ugm.jpg" width="80" align="left"> <br>
+### Universitas Gadjah Mada (Java, Indonesia) <img src="images/images1/ugm.jpg" width="80" align="left"><br>
 >##### Department of Urban Design and Planning [public university, founded in 1949]<br> M.Eng. (2006-2007)<br>
 *[Universitas Gadjah Mada](http://archiplan.ugm.ac.id/en/programmes1/architecture/)*
 
@@ -45,7 +45,7 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 - *Teaching Assistant* for Studio of Urban Planning I-III
 - *Research Assistant* for Collaborative Research of UGM-Kobe University
 
-### Universitas Atma Jaya Yogyakarta (Java, Indonesia) <img src="images/logo-uajy-png-7.png" width="78" align="left"> <br>
+### Universitas Atma Jaya Yogyakarta (Java, Indonesia) <img src="images/logo-uajy-png-7.png" width="55" align="left"> <br>
 >#####  Department of Architecture [private university, founded in 1965] <br> B.A. (1997-2005)<br>
 
 *[Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)*
@@ -53,6 +53,6 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 - *Best Final Project* for Undergraduate Thesis in Academic Year of 2005
 - *Participant* of the UAJY's Community Development Program in Godean, DIY
 
-
+<br>
 **Inspirational Quote**
 >*We can easily forgive a child who is afraid of the dark; <br> the real tragedy of life is when men are afraid of the light.<br>(Plato, Ancient Greek Philosopher)*
