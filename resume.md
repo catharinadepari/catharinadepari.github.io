@@ -53,6 +53,5 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 - *Best Final Project* for Undergraduate Thesis in Academic Year of 2005
 - *Participant* of the UAJY's Community Development Program in Godean, DIY
 
-<br>
 **Inspirational Quote**
 >*We can easily forgive a child who is afraid of the dark; <br> the real tragedy of life is when men are afraid of the light.<br>(Plato, Ancient Greek Philosopher)*
