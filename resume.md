@@ -37,7 +37,7 @@ AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
 
 
 ### Universitas Gadjah Mada (Java, Indonesia) <img src="images/kisspng-gadjah-mada-university-ugm-logo-campus-5c591498e6f956.4971283415493418489461.png" width="90" align="left"> <br>
->##### Department of Urban Design and Planning [public university,founded in 1949]<br> M.Eng. (2006-2007)
+>##### Department of Urban Design and Planning [public university,founded in 1949]<br> M.Eng. (2006-2007)<br>
 
 - *Team Member* of UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District <br> in New Orleans Post Hurricane Katrina
 - *Summa Cum Laude* Recipient in Master Degree Graduation
