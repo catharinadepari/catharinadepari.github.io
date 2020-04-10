@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/catharinadepari/catharinadepari.github.io/master/images/rsz_catharina.jpgg" width="180" align="center">
+![Catharina](https://raw.githubusercontent.com/catharinadepari/catharinadepari.github.io/master/images/rsz_catharina.jpgg width="180" align="center")
 
+![Cath](/image/rsz_catharina.jpg)
 <br>
 # Catharina Dwi Astuti Depari
 
