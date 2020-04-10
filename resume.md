@@ -17,7 +17,7 @@ http://www.linkedin.com/in/catharina-depari-4294277a/ <br> https://www.aminef.or
 
 ## Qualifications
 
-AutoCad, ArcGIS, CorelDraw, AdobePhotoshop, SketchUp
+AutoCad, ArcGIS, CorelDraw, R-Studio, AdobePhotoshop, SketchUp
 
 ## Work Experience
 
