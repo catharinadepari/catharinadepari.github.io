@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/catharinadepari/catharinadepari.github.io/master/images/rsz_catharina.jpgg" width="180" align="center">
+
+<br>
 # Catharina Dwi Astuti Depari
 
 ### :office: **Office Address**
