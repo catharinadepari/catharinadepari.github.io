@@ -23,7 +23,7 @@ AutoCad, ArcGIS, CorelDraw, R-Studio, AdobePhotoshop, SketchUp
 
 - **2010-recent** <br>  Lecturer at the Department of Architecture, UAJY, Yogyakarta, Indonesia
 
-- **2010-2016** <br> Research Assistant in the Ministry of Public Works, Indonesia <br> Urban Planning Team Member for Master Plans in Jambi, Gunung Kidul, Siak Districts
+- **2010-2016** <br> Research Assistant in the Ministry of Public Works, Indonesia and Urban Planning Team Member for Master Plans in Jambi, Gunung Kidul, Siak Districts
 
 - **2007-2010** <br> Lecturer Assistant in Planning Studio, UGM, Yogyakarta, Indonesia
 
@@ -44,7 +44,7 @@ AutoCad, ArcGIS, CorelDraw, R-Studio, AdobePhotoshop, SketchUp
 *[Universitas Gadjah Mada](http://archiplan.ugm.ac.id/en/programmes1/architecture/)*
 
 - *Team Member* of UGM's Global Design Studio of the Urban Revitalization Project for Old Algiers District <br> in New Orleans Post Hurricane Katrina
-- *Summa Cum Laude* Recipient in Master Degree Graduation
+- *Summa Cum Laude Recipient* in Master Degree Graduation
 - *Teaching Assistant* for Studio of Urban Planning I-III
 - *Research Assistant* for Collaborative Research of UGM-Kobe University
 
@@ -52,7 +52,7 @@ AutoCad, ArcGIS, CorelDraw, R-Studio, AdobePhotoshop, SketchUp
 >#####  Department of Architecture [private university, founded in 1965] <br> B.A. (1997-2005)<br>
 *[Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)*<br>
 
-- *Best Final Project* for Undergraduate Thesis in Academic Year of 2005
+- *Best Final Project Awardee* for Undergraduate Thesis at UAJY in Academic Year of 2004/2005
 - *Participant* of the UAJY's Community Development Program in Godean, DIY
 
 **Inspirational Quote**
