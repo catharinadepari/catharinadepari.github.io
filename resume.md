@@ -27,7 +27,7 @@ AutoCad, ArcGIS, CorelDraw, R-Studio, AdobePhotoshop, SketchUp
 
 - **2007-2010** <br> Lecturer Assistant in Planning Studio, UGM, Yogyakarta, Indonesia
 
-- **2006-2007** <br> Research Assistant for UGM's Earthquake Hazard Mitigations
+- **2006-2007** <br> Research Assistant for UGM's Earthquake Hazard Mitigations Programs
 
 - **2005-2007** <br> Architecture Supervisor at Adjisaka Construction Management Consultant
 
