@@ -34,7 +34,7 @@ AutoCad, ArcGIS, CorelDraw, R-Studio, AdobePhotoshop, SketchUp
 ## Education
 ### University of Washington (Seattle, WA) <img src="images/UW_Seal_Purple_26851.png" width="80" align="left"> <br>
 >##### Department of Urban Design and Planning <br> Ph.D. Student (2018-recent) <br>
-#### Institutional Link: [University of Washington](http://urbdp.be.washington.edu/)*
+#### Institutional Link: [University of Washington](http://urbdp.be.washington.edu/)
 
 - *Team Member* of UW's Community Based Planning for Hazards Mitigations in Westport, <br> Grays Harbor County, WA
 - *Fulbright Scholarship Awardee* for Ph.D. Degree education in the U.S. universities
@@ -50,7 +50,7 @@ AutoCad, ArcGIS, CorelDraw, R-Studio, AdobePhotoshop, SketchUp
 
 ### Universitas Atma Jaya Yogyakarta (Java, Indonesia) <img src="images/logo-uajy-png-7.png" width="73" align="left"> <br>
 >#####  Department of Architecture [private university, founded in 1965] <br> B.A. (1997-2005)<br>
-#### Institutional Link: [Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)*<br>
+#### Institutional Link: [Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)
 
 - *Best Final Project Awardee* for Undergraduate Thesis at UAJY in Academic Year of 2004/2005
 - *Participant* of the UAJY's Community Development Program in Godean DIstrict, DIY
