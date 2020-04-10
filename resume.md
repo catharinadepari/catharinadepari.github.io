@@ -23,7 +23,7 @@ AutoCad, ArcGIS, CorelDraw, R-Studio, AdobePhotoshop, SketchUp
 
 - **2010-recent** <br>  Lecturer at the Department of Architecture, UAJY, Yogyakarta, Indonesia
 
-- **2010-2016** <br> Research Assistant in the Ministry of Public Works, Indonesia and Urban Planning Team Member for Master Plans in Jambi, Gunung Kidul, Siak Districts
+- **2010-2016** <br> Research Assistant in the Ministry of Public Works, Indonesia
 
 - **2007-2010** <br> Lecturer Assistant in Planning Studio, UGM, Yogyakarta, Indonesia
 
@@ -53,7 +53,7 @@ AutoCad, ArcGIS, CorelDraw, R-Studio, AdobePhotoshop, SketchUp
 *[Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)*<br>
 
 - *Best Final Project Awardee* for Undergraduate Thesis at UAJY in Academic Year of 2004/2005
-- *Participant* of the UAJY's Community Development Program in Godean, DIY
+- *Participant* of the UAJY's Community Development Program in Godean DIstrict, DIY
 
 **Inspirational Quote**
 >*We can easily forgive a child who is afraid of the dark; <br> the real tragedy of life is when men are afraid of the light.<br>(Plato, Ancient Greek Philosopher)*
