@@ -12,7 +12,7 @@
 ### :telephone: Contact
 Mobile Phone: (208) 596-8354 <br> E-mail: cd65@uw.edu
 
-http://www.linkedin.com/in/catharina-depari-4294277a/ <br> https://www.aminef.or.id/catharina-dwi-astuti-depari/
+https://www.aminef.or.id/catharina-dwi-astuti-depari/<br> http://ft.uajy.ac.id/fakultas-teknik/arsitek/dosen-tetap-ars/ <br> http://www.linkedin.com/in/catharina-depari-4294277a/ 
 
 
 ## Qualifications
@@ -21,7 +21,7 @@ AutoCad, ArcGIS, CorelDraw, R-Studio, AdobePhotoshop, SketchUp
 
 ## Work Experience
 
-- **2010-recent** <br>  Lecturer at the Department of Architecture, UAJY, Yogyakarta, Indonesia
+- **2010-recent** <br> Lecturer at the Department of Architecture, UAJY, Yogyakarta, Indonesia
 
 - **2010-2016** <br> Research Assistant in the Ministry of Public Works, Indonesia
 
