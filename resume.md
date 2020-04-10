@@ -1,4 +1,4 @@
-<img src="images/rsz_catharina.jpg" width="550" align="center">
+<img src="images/rsz_catharina.jpg" width="850" align="center">
 
 <br>
 
