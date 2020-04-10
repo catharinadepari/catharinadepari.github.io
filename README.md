@@ -1,4 +1,2 @@
-# catharinadepari.github.io
-
-Images in resume
-![GitHub Logo](/images/logo.png)
+# Lab 1 Assignment
+resume and index.html in the startbootstrap folder
