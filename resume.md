@@ -12,7 +12,7 @@
 ### :telephone: Contact
 Mobile Phone: (208) 596-8354 <br> E-mail: cd65@uw.edu
 
-https://www.aminef.or.id/catharina-dwi-astuti-depari/<br> http://ft.uajy.ac.id/fakultas-teknik/arsitek/dosen-tetap-ars/ <br> http://www.linkedin.com/in/catharina-depari-4294277a/
+https://www.aminef.or.id/catharina-dwi-astuti-depari/<br> http://ft.uajy.ac.id/fakultas-teknik/arsitek/dosen-tetap-ars/ <br> 
 
 
 ## Qualifications
