@@ -1,6 +1,7 @@
-![Catharina]<img src="images/rsz_catharina.jpg" width="80" align="left">
+<img src="images/rsz_catharina.jpg" width="250" align="center">
 
 <br>
+
 # Catharina Dwi Astuti Depari
 
 ### :office: **Office Address**
