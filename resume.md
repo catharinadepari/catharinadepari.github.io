@@ -12,7 +12,7 @@
 ### :telephone: Contact
 Mobile Phone: (208) 596-8354 <br> E-mail: cd65@uw.edu
 
-http://www.linkedin.com/in/catharina-depari-4294277a/ <br> https://www.aminef.or.id/catharina-dwi-astuti-depari/ <br> https://pddikti.kemdikbud.go.id/data_dosen/
+http://www.linkedin.com/in/catharina-depari-4294277a/ <br> https://www.aminef.or.id/catharina-dwi-astuti-depari/
 
 
 ## Qualifications
@@ -29,15 +29,15 @@ AutoCad, ArcGIS, CorelDraw, R-Studio, AdobePhotoshop, SketchUp
 
 - **2006-2007** <br> Research Assistant for UGM's Earthquake Hazard Mitigations
 
-- **2005-2007** <br> Architecture Supervisor for Building Constructions at Adjisaka Construction Management Consultant
+- **2005-2007** <br> Architecture Supervisor at Adjisaka Construction Management Consultant
 
 ## Education
 ### University of Washington (Seattle, WA) <img src="images/UW_Seal_Purple_26851.png" width="80" align="left"> <br>
 >##### Department of Urban Design and Planning <br> Ph.D. Student (2018-recent) <br>
 *[University of Washington](http://urbdp.be.washington.edu/)*
 
-- *Team Member* of UW's Community Based Planning for Hazards Mitigations in Westport, Gray Harbor, WA
-- *Fulbright Scholarship Awardee* for Ph.D. Degree education in the U.S.
+- *Team Member* of UW's Community Based Planning for Hazards Mitigations in Westport, <br> Grays Harbor County, WA
+- *Fulbright Scholarship Awardee* for Ph.D. Degree education in the U.S. universities
 
 ### Universitas Gadjah Mada (Java, Indonesia) <img src="images/images1/ugm.jpg" width="80" align="left"><br>
 >##### Department of Urban Design and Planning [public university, founded in 1949]<br> M.Eng. (2006-2007)<br>
