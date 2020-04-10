@@ -38,7 +38,7 @@ AutoCad, ArcGIS, CorelDraw, R-Studio, AdobePhotoshop, SketchUp
 - *Team Member* of UW's Community Based Planning for Hazards Mitigations in Westport, <br> Grays Harbor County, WA
 - *Fulbright Scholarship Awardee* for Ph.D. Degree education in the U.S. universities
 
-#### Institutional Link: [University of Washington](http://urbdp.be.washington.edu/)
+##### Institutional Link: [University of Washington](http://urbdp.be.washington.edu/)
 
 ### Universitas Gadjah Mada (Java, Indonesia) <img src="images/images1/ugm.jpg" width="80" align="left"><br>
 >##### Department of Urban Design and Planning [public university, founded in 1949]<br> M.Eng. (2006-2007)<br>
@@ -52,12 +52,11 @@ AutoCad, ArcGIS, CorelDraw, R-Studio, AdobePhotoshop, SketchUp
 
 ### Universitas Atma Jaya Yogyakarta (Java, Indonesia) <img src="images/logo-uajy-png-7.png" width="73" align="left"> <br>
 >#####  Department of Architecture [private university, founded in 1965] <br> B.A. (1997-2005)<br>
-#### Institutional Link: [Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)
 
 - *Best Final Project Awardee* for Undergraduate Thesis at UAJY in Academic Year of 2004/2005
 - *Participant* of the UAJY's Community Development Program in Godean DIstrict, DIY
 
-##### Institutional Link: [Universitas Gadjah Mada](http://archiplan.ugm.ac.id/en/programmes1/architecture/)<br>
+##### Institutional Link: [Universitas Atma Jaya Yogyakarta](http://www.uajy.ac.id/program-studi/sarjana/program-studi-arsitektur/)<br>
 
 **Inspirational Quote**
 >*We can easily forgive a child who is afraid of the dark; <br> the real tragedy of life is when men are afraid of the light.<br>(Plato, Ancient Greek Philosopher)*
